@@ -9,14 +9,16 @@ This project consists of two applications:
 ### How to start the application
 Option 1:\
 a. Copy the RewardsBackend-1.0.jar available under RewardsApp-ReactJS-SpringBoot to your local\
-b. Run `java -jar RewardsBackend-1.0.jar`
+b. Run `java -jar RewardsBackend-1.0.jar`\
+c. Open http://localhost:8080 in the browser
 
 Option 2:\
 a. Open a new terminal and navigate to RewardsApp-ReactJS-SpringBoot folder (cd RewardsApp-ReactJS-SpringBoot)\
 b. Run `mvn clean package`\
 c. Navigate to RewardsBackend target folder \
 (e.g.: cd .\RewardsApp-ReactJS-SpringBoot\RewardsBackend\target)\
-d. Run `java -jar RewardsBackend-1.0.jar`
+d. Run `java -jar RewardsBackend-1.0.jar` \
+e. Open http://localhost:8080 in the browser
 
 ## Project Description
 
