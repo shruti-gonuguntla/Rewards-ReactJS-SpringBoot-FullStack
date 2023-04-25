@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "description": "Walmart Misc",
+        "price": 120.0,
+        "dateTime": "02-04-2023 09:00:10 AM"
+    },
+    {
+        "id": "2",
+        "description": "Schnucks Misc",
+        "price": 75.0,
+        "dateTime": "03-14-2023 11:00:22 AM"
+    },
+    {
+        "id": "3",
+        "description": "Restaurant bill",
+        "price": 94.0,
+        "dateTime": "03-01-2023 12:30:40 PM"
+    },
+    {
+        "id": "4",
+        "description": "Mobile bill pay",
+        "price": 20.0,
+        "dateTime": "04-14-2023 02:05:58 PM"
+    },
+    {
+        "id": "5",
+        "description": "Internet bill pay",
+        "price": 55.0,
+        "dateTime": "04-21-2023 04:07:12 PM"
+    },
+    {
+        "id": "6",
+        "description": "Other",
+        "price": 15.0,
+        "dateTime": "04-23-2023 04:07:12 PM"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "customerName": "John Smith",
+        "rewardPoints": 500
+    },
+    {
+        "id": 2,
+        "customerName": "Lucky",
+        "rewardPoints": 400
+    },
+    {
+        "id": 3,
+        "customerName": "Krishna",
+        "rewardPoints": 600
+    },
+    {
+        "id": 4,
+        "customerName": "Raj",
+        "rewardPoints": 300
+    },
+    {
+        "id": 5,
+        "customerName": "Pete",
+        "rewardPoints": 450
+    },
+    {
+        "id": 6,
+        "customerName": "Tejas LLC",
+        "rewardPoints": 800
+    }
+]
