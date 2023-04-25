@@ -27,7 +27,7 @@ On load of home page list of Customers is displayed in Customers dropdown. By de
 ![](rewards-ui/src/images/Markdown/HomeScreen.png)
 
 By selecting a customer in the drop down we can view the details such as 
-Transaction amount for the last three months and the reward points earned. Also we have the 'Months' dropdown listed with the last three months.
+Transaction amount for the last three months and the reward points earned (calculated in the UI layer). Also we have the 'Months' dropdown listed with the last three months.
 By default we are displaying all the transactions for the selected customer in the tabular format.
 Once we select the month transactions are filtered based on month.
 ![](rewards-ui/src/images/Markdown/FilterByMonth.png)
